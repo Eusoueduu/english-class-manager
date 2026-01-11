@@ -1,0 +1,5 @@
+{
+  "name": "English Class Manager",
+  "description": "A comprehensive system for managing English students, attendance, material delivery, and history tracking with automated alerts and PDF reporting.",
+  "requestFramePermissions": []
+}
